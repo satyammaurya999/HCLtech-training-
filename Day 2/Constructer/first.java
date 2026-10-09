@@ -3,7 +3,6 @@ public class first {
     // Instance variable
     String name;
     int age;
-
     // Constructor
     // Constructor ka naam class ke naam jaisa hi hota hai
     first(String name, int age) {
